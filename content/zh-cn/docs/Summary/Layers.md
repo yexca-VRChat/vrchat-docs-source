@@ -114,7 +114,7 @@ Unity 图层的机制，模型是如何被修改的呢？
 
 上面的参数不仅可以手动修改，也可以通过过渡图预览和修改
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.d1zgl4fkjnc.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/07-Layers/image.d1zgl4fkjnc.webp)
 
 #### 中断源(Interruption Source)
 
@@ -122,7 +122,7 @@ Unity 图层的机制，模型是如何被修改的呢？
 
 例如以下图层
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.3j6e8ox86fg0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/07-Layers/image.3j6e8ox86fg0.webp)
 
 ##### Current State(当前状态)
 
@@ -130,7 +130,7 @@ Unity 图层的机制，模型是如何被修改的呢？
 
 在状态A上的过渡如下：
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.3te260424lu0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/07-Layers/image.3te260424lu0.webp)
 
 `一些`的原因：若勾选`Ordered Interruption`则只有优先级比A->B高的才能打断
 
@@ -156,7 +156,7 @@ Unity 图层的机制，模型是如何被修改的呢？
 
 状态B上的过渡顺序也会有影响，但此时`Ordered Interruption`无法勾选(因为A->B是在状态A上，不在状态B上，不参与B的排序)。状态B上的过渡顺序会决定同时触发时会使用哪一个过渡，例如下图过渡
 
-![](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.1xdggp8q1bq8.webp)
+![](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/07-Layers/image.1xdggp8q1bq8.webp)
 
 如果B->C和B->D同时触发，则优先执行B->C
 

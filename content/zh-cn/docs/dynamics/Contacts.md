@@ -25,7 +25,7 @@ VRChat 交互系统
 
 定义发送信号的体积和参数(Collision Tags)
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-Contacts/image.ebh40gdczco.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-Contacts/image.ebh40gdczco.webp)
 
 ### Root Transform
 
@@ -55,7 +55,7 @@ VRChat 交互系统
 
 定义接受信号的体积与参数(Collision Tags)，然后输出相应参数
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-Contacts/image.4zfxznntlkg0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-Contacts/image.4zfxznntlkg0.webp)
 
 ### Root Transform
 
@@ -83,7 +83,7 @@ VRChat 交互系统
 
 ### Receiver
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-Contacts/image.66905l2pgso0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-Contacts/image.66905l2pgso0.webp)
 
 定义接受到信号后所改变的参数，参数后填入名字即为要改变的参数
 

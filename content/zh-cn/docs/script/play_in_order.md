@@ -25,7 +25,7 @@ slug: /script/play_in_order
 
 参加参数后，新建一个图层，重命名后权重设为1，如下图所示
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/06-顺序播放音乐/顺序播放音乐.6da5laejoag0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/06-顺序播放音乐/顺序播放音乐.6da5laejoag0.webp)
 
 ## 四、菜单
 

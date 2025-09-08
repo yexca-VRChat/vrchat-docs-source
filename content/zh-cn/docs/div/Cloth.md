@@ -209,7 +209,7 @@ Collision Mass Scale：0
 
 #### 结构
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/08-Cloth/CapsuleColliderDiagram.3al0s4nf8mc0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/08-Cloth/CapsuleColliderDiagram.3al0s4nf8mc0.webp)
 
 #### 添加到布料
 

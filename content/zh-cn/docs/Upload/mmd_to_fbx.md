@@ -57,7 +57,7 @@ Github：[cats-blender-plugin-0-19-0.zip](https://github.com/absolute-quantum/ca
 
 如图设置
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-MMD2FBX/%E7%9C%BC%E9%83%A8%E8%BF%BD%E8%B8%AA.6a4bwsz8fyg0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-MMD2FBX/%E7%9C%BC%E9%83%A8%E8%BF%BD%E8%B8%AA.6a4bwsz8fyg0.webp)
 
 点击”Create Eye Tracking“即可，如果未找到，请选择”基型“
 
@@ -65,7 +65,7 @@ Github：[cats-blender-plugin-0-19-0.zip](https://github.com/absolute-quantum/ca
 
 如图所示
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-MMD2FBX/%E5%98%B4%E9%83%A8%E5%8F%A3%E5%9E%8B.288ghboc1vvo.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-MMD2FBX/%E5%98%B4%E9%83%A8%E5%8F%A3%E5%9E%8B.288ghboc1vvo.webp)
 
 点击”Create Visemes“即可
 

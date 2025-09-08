@@ -12,9 +12,8 @@ type: docs
 
 ## 最近消息
 
-2025.01.23  
-添加之前网站的链接，事实上原先的还保留着: <https://docsifyvrchat.yexca.net/>  
-文章前加上小介绍吧，毕竟这个主题每个文章页面没标题
+2025.09.08  
+替换图片为 Github 直链
 
 ## 说明/目录
 
@@ -64,8 +63,7 @@ type: docs
 
 ~~原本只是说明，考虑到手机端不是太方便观看便加上目录~~  
 
-另外我 VRChat 的 ID 为 [yexca](https://vrchat.com/home/user/usr_16490da9-3083-4d90-baab-f19d939c2732)  
-*放出 ID 只是防止被冒充*
+另外我 VRChat 的 ID 为 [yexca](https://vrchat.com/home/user/usr_16490da9-3083-4d90-baab-f19d939c2732) (*放出 ID 只是防止被冒充*)
 
 ## 待办
 

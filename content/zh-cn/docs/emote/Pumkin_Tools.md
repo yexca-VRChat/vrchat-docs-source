@@ -15,9 +15,9 @@ slug: /emote/Pumkin_Tools
 
 ## Pumkin's Avatar Tools
 
-Github：https://github.com/rurre/PumkinsAvatarTools
+Github：<https://github.com/rurre/PumkinsAvatarTools>
 
-文件直连：Github V1.1.1：https://github.com/rurre/PumkinsAvatarTools/releases/download/1.1.1/PumkinsAvatarTools_v1.1.1.unitypackage
+文件直连：Github V1.1.1：[PumkinsAvatarTools_v1.1.1.unitypackage](https://github.com/rurre/PumkinsAvatarTools/releases/download/1.1.1/PumkinsAvatarTools_v1.1.1.unitypackage)
 
 ## 模型处理
 

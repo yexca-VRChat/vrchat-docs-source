@@ -7,7 +7,7 @@ slug: /dynamics/PhysBones
 {{% hint info %}}
 **PhysBones**  
 VRChat 动态骨骼系统  
-令官方消息: *原动骨插件最终将被全部移除，将全部自动转为新动骨*
+另官方消息: *原动骨插件最终将被全部移除，将全部自动转为新动骨*
 {{% /hint %}}
 
 ## 关于自动转换
@@ -26,7 +26,7 @@ VRChat 动态骨骼系统
 
 ## 一、Transforms
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.5l87k4hxtbk0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.5l87k4hxtbk0.webp)
 
 ### Root Transform
 
@@ -47,7 +47,7 @@ VRChat 动态骨骼系统
 | 一般裙子骨骼如下(不需要设置)                                 | 只有一个骨骼(可能需要设置)                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 父级“Hips”下子集“Skirt_A1_L”还有子集                         | 父级“Hips”下子集“Skirt1”无子集                               |
-| ![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.5gd52p9c23g0.webp) | ![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.9orxdswcog4.webp) |
+| ![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.5gd52p9c23g0.webp) | ![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.9orxdswcog4.webp) |
 
 ### Multi Child Type
 
@@ -76,10 +76,10 @@ VRChat 动态骨骼系统
 <tbody>
     <tr>
         <td>
-            <img src="https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.22irlehtq1fk.webp" referrerpolicy="no-referrer" alt="img">
+            <img src="https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.22irlehtq1fk.webp" referrerpolicy="no-referrer" alt="img">
         </td>
         <td>
-            <img src="https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/YO5V[YTTV81FOBFVREMD7]T.4hygp330s4c0.webp" referrerpolicy="no-referrer" alt="img">
+            <img src="https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.4hygp330s4c0.webp" referrerpolicy="no-referrer" alt="img">
         </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ VRChat 动态骨骼系统
 
 ### 参考参数
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.2z0m8306s3c0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.2z0m8306s3c0.webp)
 
 来源：<https://youtu.be/PTTnWUkswkU>
 
@@ -145,11 +145,11 @@ VRChat 动态骨骼系统
 
 ### 1）角度(Angle)
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.5fg5lki8p100.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.5fg5lki8p100.webp)
 
 骨骼移动范围为圆锥型
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.3q5ks1qzflw0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.3q5ks1qzflw0.webp)
 
 * **Max Angle**：最大角度
 
@@ -163,11 +163,11 @@ VRChat 动态骨骼系统
 
 ### 2）Hinge(合页)
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.6udcwfr44rk0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.6udcwfr44rk0.webp)
 
 骨骼移动范围为一个平面
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.26ix1hne1zc0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.26ix1hne1zc0.webp)
 
 * **Max Angle**：最大角度
 
@@ -175,11 +175,11 @@ VRChat 动态骨骼系统
 
 ### 3）Polar
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.5hnwt54xm600.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.5hnwt54xm600.webp)
 
 在上一个类型“Hinge(合页)”的基础上多一个轴可移动，不过此类型占用性能过大，官方建议尽量避免使用
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.5gk8akp19280.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.5gk8akp19280.webp)
 
 * **Max Pitch**：可移动角度，类似“Hinge(合页)”的“Max Angle”
 
@@ -189,7 +189,7 @@ VRChat 动态骨骼系统
 
 ## 四、Collision(碰撞)
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.k66s0ps9stc.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.k66s0ps9stc.webp)
 
 * 半径(Radius)：碰撞球的半径
 
@@ -201,7 +201,7 @@ VRChat 动态骨骼系统
 
 添加碰撞在相应骨骼下创建空物体后添加组件“VRC Phys Bone Collider” (例如腿部骨骼添加空物体“腿部碰撞”)
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/20220322/image.inu3nz30ic0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.inu3nz30ic0.webp)
 
 * **Root Transform**：碰撞所在位置，不添加则为组件所在位置
 
@@ -222,7 +222,7 @@ VRChat 动态骨骼系统
 
 ## 五、Grab & Pose(抓取和定位)
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.3vj5o12e9l80.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.3vj5o12e9l80.webp)
 
 * **Allow Grabbing**：允许其他玩家抓取此骨骼
 
@@ -234,7 +234,7 @@ VRChat 动态骨骼系统
 
 ## 六、Options
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.6d07koeo6ec0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.6d07koeo6ec0.webp)
 
 ### 参数(Parameter)
 
@@ -254,7 +254,7 @@ VRChat 动态骨骼系统
 
 ## 七、Gizmos
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/04-PhysBones/image.7ed1567tjro0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/04-PhysBones/image.7ed1567tjro0.webp)
 
 * **Show Gizmos**：显示动骨和限制
 
