@@ -8,6 +8,7 @@ export default defineConfig({
 		starlight({
 			title: "yexca'Docs for VRChat",
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/yexca-VRChat/vrchat-docs-source' }],
+			favicon: '/favicon.png',
 			sidebar: [
 				{
 					label: '板块',
