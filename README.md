@@ -1,4 +1,1 @@
-
-考虑到之前一直都是用该仓库存放源 markdown 文件 (因为之前用的 Docsify 直接可以渲染) 更换主题后变成静态文件多少有点不妥，特换回源文件
-
-静态代码将生成放置于 [yexca-VRChat/vrchat-docs-web](https://github.com/yexca-VRChat/vrchat-docs-web)
+yexca'Docs for VRChat 的源文件，使用 astro starlight 构建，通过 Github Actions 自动推送到 [yexca-VRChat/vrchat-docs-web](https://github.com/yexca-VRChat/vrchat-docs-web) 部署 Github Pages

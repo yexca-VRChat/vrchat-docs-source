@@ -1,9 +1,9 @@
-name: Build and Deploy Hugo Docs
+name: Build and Deploy Astro Docs
 
 on:
   push:
     branches:
-      - main  # 监听源仓库主分支的更新
+      - main
   workflow_dispatch:
 
 jobs:
@@ -14,19 +14,26 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          hugo-version: '0.140.1'
-          extended: true
+          node-version: "24"
+          cache: "npm"
 
-      - name: Build Hugo site
-        run: hugo --minify
+      # 如果 pnpm/yarn，保证 corepack 可用
+      # - name: Enable Corepack (optional)
+      #   run: corepack enable || true
 
-      - name: Deploy to blogWeb repo
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Astro site
+        run: npm run build
+
+      - name: Deploy to vrchat-docs-web repo
         uses: peaceiris/actions-gh-pages@v3
         with:
           external_repository: yexca-VRChat/vrchat-docs-web
-          publish_branch: main  # blogWeb 的分支
-          publish_dir: ./public  # Hugo 默认输出目录
+          publish_branch: main
+          publish_dir: ./dist
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
